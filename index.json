@@ -1,0 +1,11 @@
+{
+  "org": "cohere-ai",
+  "repo": "melody",
+  "versions": [
+    {
+      "commit": "92b4073bd7d16529f532d7f212fa12a8660a65df",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:05:42.674358+00:00"
+    }
+  ]
+}
